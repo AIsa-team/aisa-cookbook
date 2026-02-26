@@ -20,3 +20,7 @@ Run the script and provide a stock ticker (e.g., PLTR).
 ```bash
 python spy.py
 ```
+
+## Output
+
+<img width="898" height="544" alt="aisa-cookbook-insider-spy" src="https://github.com/user-attachments/assets/5dce65c6-0af6-4c7f-b9e5-5ed9b73cb075" />
