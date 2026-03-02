@@ -20,3 +20,7 @@ Run the script and provide a crypto ticker (e.g., SOL).
 ```bash
 python trader.py
 ```
+
+## Output
+
+<img width="890" height="473" alt="aisa-cookbook-crypto-whale" src="https://github.com/user-attachments/assets/4c7b1c90-5c78-4f89-9702-1a6c887c8d03" />

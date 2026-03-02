@@ -20,3 +20,7 @@ Run the script and provide a claim or topic to fact check.
 ```bash
 python bot.py
 ```
+
+## Output
+
+<img width="1014" height="1122" alt="aisa-cookbook-deep-research" src="https://github.com/user-attachments/assets/1c070674-d254-44c5-9ec6-8fba222b160d" />

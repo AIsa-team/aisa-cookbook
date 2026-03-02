@@ -20,3 +20,7 @@ Simply run the script. It will automatically detect the top trend and start rend
 ```bash
 python generator.py
 ```
+
+## Output
+
+<img width="892" height="419" alt="aisa-cookbook-video-generator" src="https://github.com/user-attachments/assets/1e333942-fb0a-47b3-a019-2d0fbb0acf18" />

@@ -23,3 +23,7 @@ Run the bot, enter your topic, and watch it generate facts and the thread!
 ```bash
 python bot.py
 ```
+
+## Output
+
+<img width="1018" height="848" alt="aisa-cookbook-social-automator" src="https://github.com/user-attachments/assets/51a7fec2-b6cc-4b60-984c-67e501e276ac" />

@@ -20,3 +20,7 @@ Run the script and provide a stock ticker (e.g., AAPL).
 ```bash
 python analyst.py
 ```
+
+## Output
+
+<img width="1014" height="705" alt="aisa-cookbook-financial-analyst" src="https://github.com/user-attachments/assets/14f33dfd-27e0-4f2e-b3d6-4b88c565eb9a" />
